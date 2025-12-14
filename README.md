@@ -1,3 +1,4 @@
+<img width="1829" height="870" alt="LEXICAN" src="https://github.com/user-attachments/assets/0efbb690-15cb-49e8-907a-814c2317c724" />
 Lexican Group of Company: Sales Performance Analysis (2023)
 
 Project Overview
